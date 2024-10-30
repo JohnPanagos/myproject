@@ -1,3 +1,14 @@
- title {
+ 
+body {
+    background-color: purple;
+}
 
- }
+h1{
+color:lightcoral;
+text-align: center;
+}
+
+p {
+    text-align: center;
+    color:aquamarine;
+}
